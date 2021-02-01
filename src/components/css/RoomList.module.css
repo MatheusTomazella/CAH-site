@@ -1,0 +1,12 @@
+.ListItem {
+    display: flex;
+    justify-content: center;
+}
+
+.ListItemPlayers {
+    justify-self: flex-start;
+    color: red;
+}
+
+.ListItemText {
+}
